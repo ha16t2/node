@@ -1,0 +1,21 @@
+{
+  "name": "helloexpress",
+  "version": "1.0.0",
+  "description": "helloexpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "Ha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
