@@ -1,7 +1,0 @@
-{
-  "name": "hello",
-  "version": "1.0.0",
-  "dependencies": {
-    "mustache": "^4.0.1"
-  }
-}
