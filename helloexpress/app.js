@@ -6,4 +6,5 @@ app.use(function(request,response){
     console.log("In comes a request to:"+request.url);
     response.end("Hello,world!");
 });
+//start server
 http.createServer(app).listen(3000);
